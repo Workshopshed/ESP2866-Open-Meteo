@@ -14,7 +14,7 @@
 #include <ESP8266HTTPClient.h>
 
 #include <WiFiClientSecureBearSSL.h>
-// Fingerprint for demo URL, Friday, 20 January 2023 at 18:47:00
+// Fingerprint for api.open-meteo.com, Expires on Friday, 20 January 2023 at 18:47:00
 // Get a new one by copying the SHA1 certificate for api.open-meteo.com
 const uint8_t fingerprint[20] = {0x1e, 0x35, 0x2f, 0xc7, 0x25, 0x86, 0xad, 0xef, 0x96, 0x21, 0x55, 0xe0, 0x7c, 0x09, 0x66, 0x79, 0x70, 0xde, 0x85, 0xc3};
 
